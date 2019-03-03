@@ -1,0 +1,9 @@
+Package: com.muirey03.crashtest
+Name: CrashTest
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Small tweak to demonstrate the respring loop issue on unc0ver
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
